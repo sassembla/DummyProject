@@ -18,7 +18,7 @@
     
     // Insert code here to initialize your application
     IMP func = [self methodForSelector:m_receiver];
-    (* func)(self, m_receiver, aNotification);
+    ((void(*)(id,SEL))func)(self, m_receiver);
 }
 
 - (void) receiver:(NSNotification * )notif {

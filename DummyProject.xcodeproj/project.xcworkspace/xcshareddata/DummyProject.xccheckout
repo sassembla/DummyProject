@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E4EEF69B-B149-488E-BC76-7395CDB8085C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DummyProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C8DCDBE6-FD0A-4D8E-A688-8DE6469441D1</key>
+		<string>https://github.com/sassembla/DummyProject.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DummyProject.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C8DCDBE6-FD0A-4D8E-A688-8DE6469441D1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sassembla/DummyProject.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C8DCDBE6-FD0A-4D8E-A688-8DE6469441D1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C8DCDBE6-FD0A-4D8E-A688-8DE6469441D1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DummyProject</string>
+		</dict>
+	</array>
+</dict>
+</plist>
